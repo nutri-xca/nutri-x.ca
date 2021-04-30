@@ -7,7 +7,7 @@
 		var animateSpan			= jQuery('.animation_text_word');
 		
 			animateSpan.typed({
-				strings: ["Hidden Health Crisis", "Micronutrient Deficiency", "Agricultural Problems", "Food"],
+				strings: ["Hidden Health Crisis", "Micronutrient Deficiencies", "Agricultural Problems", "Food"],
 				loop: true,
 				startDelay: 2,
 				backDelay: 3
